@@ -2,9 +2,11 @@ import headerStyles from '../styles/Header.module.css';
 
 const Header = () => {
   return (
-    <header>
-
-    </header>
+    <div>
+      <h1>
+        <span>WebDev</span> News
+      </h1>
+    </div>
   );
 }
 
